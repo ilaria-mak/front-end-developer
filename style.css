@@ -106,9 +106,3 @@ p {
   color: var(--primary-color);
   border-radius: 4px;
 }
-
-/*For the active links
-.navbar-nav .nav-link.active {
-  font-weight: bold;
-  color: var(--primary-color);
-} */
